@@ -17,37 +17,43 @@ Redux is a JavaScript and  React Framework
 2. What packages do we install to use Redux?
 
 ```
-Answer Here
+npm i react-redux redux
 ```
 
 3. In your own words, describe the flow of how Redux is used to manage state.
 
 ```
-Answer Here
+Redux can be used like State but where ever you are on the page
 ```
 
 4. What do we use in order to manage different pieces of state?
 
 ```
-Answer Here
+we use our store and reducers
 ```
 
 5. What do we use to perform an update to state?
 
 ```
-Answer Here
+we use actions that tell redux what we are changing and how to change it
 ```
 
 6. How do we access state from Redux?
 
 ```
-Answer Here
+we access state using connect and mapStateToProps, which connects our state to our props.
 ```
 
 7. In your own words, describe how to set up Redux for a React App.
 
 ```
-Answer Here
+npx create-react-app newApp
+npm i react-redux redux
+
+then set up your store and add some reducers
+
+
+
 ```
 
 ## Submission
