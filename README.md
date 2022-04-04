@@ -11,7 +11,7 @@
 1. What is Redux?
 
 ```
-Answer Here
+Redux is a JavaScript and  React Framework
 ```
 
 2. What packages do we install to use Redux?
